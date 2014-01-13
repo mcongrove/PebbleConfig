@@ -1,0 +1,27 @@
+{
+  "uuid": "ea369700-4fbe-4a09-b7fe-f9612d85118e",
+  "shortName": "PConfig",
+  "longName": "Pebble Config",
+	"companyName": "Matthew Congrove",
+	"versionCode": 1,
+	"versionLabel": "1.0",
+	"watchapp": {
+		"watchface": true
+	},
+	"capabilities": [
+		"configurable"
+	],
+	"appKeys": {
+		"time": 0
+	},
+	"resources": {
+		"media": [
+			{
+				"menuIcon": true,
+				"type": "png",
+				"name": "IMAGE_MENU_ICON",
+				"file": "images/menu_icon.png"
+			}
+		]
+	}
+}
